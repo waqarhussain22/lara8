@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b01aa2d1-8bb5-40bf-80f1-de99614fa991" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -184,7 +183,7 @@
       <workItem from="1621841648819" duration="6301000" />
       <workItem from="1622203827887" duration="2468000" />
       <workItem from="1622701835018" duration="240000" />
-      <workItem from="1624272228786" duration="537000" />
+      <workItem from="1624272228786" duration="2242000" />
     </task>
     <servers />
   </component>
